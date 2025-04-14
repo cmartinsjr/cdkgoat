@@ -8,7 +8,7 @@ CdkGoat is a learning and training project that demonstrates how common configur
 
 It also shows how Bridgecrew can be used with the AWS CDK to provide CloudFormation template vulnerability scanning at build time, even though no CloudFormation templates exist in the source repository.
 
-Small change 1
+Small change 2
 
 ## Table of Contents
 
